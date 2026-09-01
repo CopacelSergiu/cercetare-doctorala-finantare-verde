@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Dacă utilizați acest cod, vă rugăm să îl citați conform datelor de mai jos."
+type: software
+title: "Corelația dintre instrumentele financiare verzi, energia regenerabilă și emisiile de carbon: cod de analiză a datelor"
+abstract: >-
+  Cod pentru extragerea, validarea și prelucrarea descriptivă a datelor Eurostat
+  privind emisiile de gaze cu efect de seră, energia regenerabilă, dezvoltarea
+  economică și obligațiunile verzi în cele 27 de state membre ale Uniunii Europene.
+  Include recalcularea independentă a valorilor publicate în lucrare.
+authors:
+  - family-names: Copăcel
+    given-names: Sergiu Aurelian
+    affiliation: "Universitatea Lucian Blaga din Sibiu, Școala Doctorală de Economie"
+version: 1.0.0
+date-released: 2026-09-01
+license: MIT
+repository-code: "https://github.com/CopacelSergiu/cercetare-doctorala-finantare-verde"
+keywords:
+  - finantare verde
+  - obligatiuni verzi
+  - credit verde
+  - energie regenerabila
+  - emisii de carbon
+  - Uniunea Europeana
+  - Eurostat
+  - Romania
